@@ -1,4 +1,6 @@
-<img src="./assets/cover.jpg" alt="Cover" align="center" />
+<h1 align="center">
+  <img src="./assets/cover.jpg" alt="Cover"/>
+</h1>
 
 # 🚀 GoStack Challenge: GoRestaurant Mobile
 This is a challenge of Rocketseat's GoStack bootcamp. It is an application that connects to a fake API, showing and filtering the API's food dishes, in addition to allowing the creation of new orders.
